@@ -9,6 +9,9 @@
 
 [Host]
 # --- CUSTOM HOSTS ---
+ssid:LZS = 192.168.1.1
+said:YOZA = 192.168.11.1
+ssid:YOZA_5G = 192.168.11.1
 # > IPv6
 ip6-localhost = ::1
 ip6-loopback = ::1
@@ -28,7 +31,7 @@ dns.alidns.com = 223.5.5.5
 doh.pub = 1.12.12.12
 dot.pub = 1.12.12.12
 doh.360.cn = 23.6.48.18
-dot.360.cn = 101.198.198.198
+dot.360.cn = 101.198.198.198  
 dns.twnic.tw = 101.101.101.101
 ordns.he.net = 74.82.42.42
 
